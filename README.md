@@ -5,4 +5,6 @@ Design considerations prioritize user experience, with clear and user-friendly i
 Vibrant visual elements and engaging pet images enhance user engagement and enjoyment, while optimized performance ensures responsiveness without lag.
 Leveraging GitHub and GitHub Actions, the project maintains high standards of code quality and project management.
 YouTube Link: https://youtu.be/VpCaL5KoI58 
+![imad screenshot 1](https://github.com/VCCT-IMAD5112-2024-G2/myAssignment2/assets/164514716/022ff04e-f120-4b70-b9da-4c2e558a37e7)
+![imad  screenshot 2](https://github.com/VCCT-IMAD5112-2024-G2/myAssignment2/assets/164514716/088f9988-09a3-4f7b-bd5e-afd8eb6965d2)
 
